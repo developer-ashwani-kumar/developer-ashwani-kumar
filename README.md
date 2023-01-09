@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @developer-ashwani-kumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-developer-ashwani-kumar/developer-ashwani-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Ashwani Kumar! 👋
+
+
+### 💼Technical skills
+![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=f0f0f0)
+![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=f0f0f0)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=f0f0f0)
+
+![Javascript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=f0f0f0)
+![Jquery](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=f0f0f0)
+
+![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=dd4814&labelColor=f0f0f0)
+![Laravel](https://img.shields.io/badge/laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=dd4814&labelColor=f0f0f0)
+
+### 🧠 I'm currently learning
+![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=61dbfb&labelColor=333333)
+![Redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=764abc&labelColor=f0f0f0)
+
+### 👩‍💻 I'm currently working on
+[![Build With PHP](https://img.shields.io/badge/build_with_php-1f386a?style=for-the-badge&logo=data:image/webp;base64,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&logoColor=white
+)](https://buildwithphp.com/)
+
+## 🤝 Connect with me
+[![Build With PHP](https://img.shields.io/badge/build_with_php-1f386a?style=for-the-badge&logo=data:image/webp;base64,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&logoColor=white
+)](https://buildwithphp.com/)
+[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+[![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
