@@ -8,6 +8,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=f0f0f0) &nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=f0f0f0) &nbsp;
 ![Jquery](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=f0f0f0) &nbsp;
+
 ![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=dd4814&labelColor=f0f0f0) &nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=dd4814&labelColor=f0f0f0)
 
