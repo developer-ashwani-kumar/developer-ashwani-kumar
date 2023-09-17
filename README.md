@@ -3,18 +3,16 @@
 
 
 ### 💼Technical skills
-![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=f0f0f0)
-![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=f0f0f0)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=f0f0f0)
-
-![Javascript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=f0f0f0)
-![Jquery](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=f0f0f0)
-
-![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=dd4814&labelColor=f0f0f0)
+![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=f0f0f0) &nbsp;
+![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=f0f0f0) &nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=f0f0f0) &nbsp;
+![Javascript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=f0f0f0) &nbsp;
+![Jquery](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=f0f0f0) &nbsp;
+![Codeigniter](https://img.shields.io/badge/codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=dd4814&labelColor=f0f0f0) &nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=dd4814&labelColor=f0f0f0)
 
 ### 🧠 I'm currently learning
-![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=61dbfb&labelColor=333333)
+![React](https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=61dbfb&labelColor=333333) &nbsp;
 ![Redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=764abc&labelColor=f0f0f0)
 
 ### 👩‍💻 I'm currently working on
